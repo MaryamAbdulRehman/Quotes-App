@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619546907733",
+    "project_id": "random-quotes-app-64e58",
+    "storage_bucket": "random-quotes-app-64e58.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619546907733:android:429736dbf4e975e30770dc",
+        "android_client_info": {
+          "package_name": "com.example.randomquotesgenerator_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTxJC2KKqcj2Jp-AzJ2IjehbgpRhGdG_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
